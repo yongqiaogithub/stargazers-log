@@ -1,0 +1,23 @@
+[
+  {
+    "name": "awesome-project",
+    "owner": "octocat",
+    "url": "https://github.com/octocat/awesome-project",
+    "description": "An awesome demo project",
+    "starred_at": "2026-09-01T12:34:56Z"
+  },
+  {
+    "name": "useful-lib",
+    "owner": "devsquad",
+    "url": "https://github.com/devsquad/useful-lib",
+    "description": "A small utility library for everyday tasks",
+    "starred_at": "2026-08-21T08:15:00Z"
+  },
+  {
+    "name": "design-system",
+    "owner": "ui-team",
+    "url": "https://github.com/ui-team/design-system",
+    "description": "Shared components and styles",
+    "starred_at": "2026-07-11T17:00:00Z"
+  }
+]
